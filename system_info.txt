@@ -1,0 +1,13 @@
+System information:
+-----------
+Hostname: vka
+OS: Linux vka 5.14.0-325.el9.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Jun 9 19:47:16 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+Memory:                total        used        free      shared  buff/cache   available
+Mem:           3.6Gi       661Mi       2.7Gi        45Mi       512Mi       2.9Gi
+Swap:             0B          0B          0B 
+Disk space: Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        4.0M  4.0K  4.0M   1% /dev
+tmpfs           1.8G     0  1.8G   0% /dev/shm
+tmpfs           733M   43M  690M   6% /run
+/dev/vda1        80G  2.0G   78G   3% /
+tmpfs           367M     0  367M   0% /run/user/0 
